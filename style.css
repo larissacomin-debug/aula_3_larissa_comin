@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+
+body{
+    background-color: #1b4f8f;
+}
+
+.fundo{
+   width: 660px;
+   margin: 0 auto;
+   background-color: #e01272;
+}
+
+.flex{
+    display: flex;
+}
+
+.rosa{
+    background-color: rgb(255, 115, 185);
+    padding: 80px;
+    margin: 10px;
+}
+
+.alongar{
+    padding-right: 279px;
+}
+
+.esticar{
+padding-bottom: 300px;
+}
