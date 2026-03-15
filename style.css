@@ -12,7 +12,10 @@ body{
    width: 660px;
    margin: 0 auto;
    background-color: #e01272;
+   color:aliceblue;
+   text-align: center;
 }
+
 
 .flex{
     display: flex;
@@ -29,5 +32,20 @@ body{
 }
 
 .esticar{
-padding-bottom: 300px;
+padding-bottom: 400px;
 }
+
+.esticar1{
+    padding-bottom: 200px;
+}
+
+.fundo1{
+  background-color: #e01272;
+    padding: 80px;
+    margin: 10px;   
+}
+
+.esticar2{
+    padding-bottom: 278px;
+}
+
