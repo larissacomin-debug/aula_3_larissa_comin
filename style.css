@@ -14,6 +14,7 @@ body{
    background-color: #e01272;
    color:aliceblue;
    text-align: center;
+
 }
 
 
@@ -25,6 +26,7 @@ body{
     background-color: rgb(255, 115, 185);
     padding: 80px;
     margin: 10px;
+
 }
 
 .alongar{
@@ -42,10 +44,10 @@ padding-bottom: 400px;
 .fundo1{
   background-color: #e01272;
     padding: 80px;
+    padding-right: 350px;
     margin: 10px;   
 }
 
 .esticar2{
     padding-bottom: 278px;
 }
-
